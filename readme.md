@@ -1,6 +1,6 @@
 lab_01: reading data from keyboard
 
-# lab01_yourname
+
 
 ## Description
 This is a small Python program made for Lab 2. It does three things:
